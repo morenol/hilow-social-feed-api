@@ -2,8 +2,11 @@
 .github/
 .vscode/
 target/
-
-docker/volumes
+tests/
+Dockerfile
+scripts
+docker/
+migrations/
 
 .gitignore
 *.swp
